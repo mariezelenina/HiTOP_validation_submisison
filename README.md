@@ -45,8 +45,6 @@ Notebooks should be ran cell by cell, paying attention to comments which cells t
 
 # Where/how to get the data
 
-## 1. ABCD
-
 TODO
 
 # How to run the code
